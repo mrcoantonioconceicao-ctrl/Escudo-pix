@@ -1,0 +1,6 @@
+{
+  "name": "PIX-SHIELD-QPO",
+  "description": "Plataforma de Alta Performance para Avaliação Antifraude Pix em Tempo Real (<8ms SLA), GraphRAG via MCP, Rust Engine, BPMN e Conformidade Bacen/LGPD.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
