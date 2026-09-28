@@ -1,3 +1,12 @@
+/*
+ * Project: PIX-SHIELD-QPO
+ * Author: Marco Antônio Conceição <Mrcoantonioconceicao@gmail.com>
+ * Copyright (c) 2026 Marco Antônio Conceição. All rights reserved.
+ * 
+ * Mission-Critical Real-Time Pix Anti-Fraud Engine with Sub-8ms SLA,
+ * GraphRAG via MCP Protocol, Rust DDD/CQRS Architecture, and Bacen/LGPD Governance.
+ */
+
 export type RiskDecision = 
   | 'APROVADO' 
   | 'DESAFIO_MFA_REQUERIDO' 

@@ -122,6 +122,16 @@ src/
 
 ---
 
+## ⚖️ Licença e Direitos Autorais
+
+Este projeto é desenvolvido e mantido por **Marco Antônio Conceição**. 
+* **Copyright © 2026 Marco Antônio Conceição. Todos os direitos reservados.**
+* **E-mail:** Mrcoantonioconceicao@gmail.com
+* **WhatsApp:** +55 (47) 99234-5371
+* **GitHub:** [Mrcoantonioconceicao-ctrl](https://github.com/Mrcoantonioconceicao-ctrl)
+
+---
+
 <p align="center">
   <sub>Desenvolvido para segurança, latência ultrabaixa e conformidade absoluta com o Bacen e a LGPD.</sub>
 </p>
